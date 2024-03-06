@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272910062628",
+    "project_id": "gallery-c6447",
+    "storage_bucket": "gallery-c6447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272910062628:android:7efbe811e47d25894ff4b1",
+        "android_client_info": {
+          "package_name": "com.carrizomiguel.gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhcWciaSR88gofATLITCWBQ7aaZPR39v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
